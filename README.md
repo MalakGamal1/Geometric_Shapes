@@ -1,0 +1,1 @@
+It include enhanced feature such as calculate the area and perimeter of circles, rectangles, and squares. Choose the shape you want from combobox , press ' Calculate and Display ' ,and witness the magic happening on the graphical interface
